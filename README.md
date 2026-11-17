@@ -1,3 +1,5 @@
+![mayfly, issue 0: memory plugins. a field of boxes, five of them carry the marks of the plugins in the pilot](assets/mayfly-header.png)
+
 # mayfly
 
 mayfly gives one Hermes Agent plugin a fresh box, runs up to five scripted sessions, keeps the session record and removes the box.
@@ -14,6 +16,8 @@ five memory plugins, one run each, 16 Nov 2026. the agent is told eight made-up 
 | AgentMemory | 9/9 | partial · the agent called the engine's forget directly | no |
 | Honcho | not run · our runner broke | not run | yes |
 
+![the same table as a card: recall, correction and forget tool for Mem0, Hindsight, OpenViking, AgentMemory and Honcho](assets/mayfly-outcomes-16x9.png)
+
 recall alone does not separate them: Hermes Agent's built-in memory also scored 9/9 in our control runs (their exports are not in this repo). and with built-in memory switched off and no plugin, the agent switched it back on by itself.
 
 - [issue-0/FACTS.md](issue-0/FACTS.md) · results, one line each, with the session it comes from
@@ -27,4 +31,4 @@ the runner is not published.
 
 ## license
 
-text and data in this repository: [CC BY 4.0](LICENSE). plugin source quoted inside session files stays under its own license.
+text and data in this repository: [CC BY 4.0](LICENSE). plugin source quoted inside session files stays under its own license. plugin logos in the images under [assets/](assets/) belong to their owners.
