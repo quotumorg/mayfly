@@ -1,0 +1,1168 @@
+[
+ {
+  "name": "adapt",
+  "repo": "OpeyemiMoses/adapt",
+  "sha": "756956b06031fc73e98cc46675efe2413c94d87e",
+  "tier": "community",
+  "files": 58,
+  "skipped": 0,
+  "tarball_mb": 0.1
+ },
+ {
+  "name": "agent-si",
+  "repo": "joelbrilliant/hermes-agent-si",
+  "sha": "51aa30e3278ec815c6813602d43387b01fb70970",
+  "tier": "community",
+  "files": 29,
+  "skipped": 51,
+  "tarball_mb": 0.3
+ },
+ {
+  "name": "agent_memory_es",
+  "repo": "patrykkopycinski/hermes-plugin-agent-memory-es",
+  "sha": "e9469ee90396eae9db4a6b2526b5a0bc3d37dd62",
+  "tier": "community",
+  "files": 9,
+  "skipped": 0,
+  "tarball_mb": 0.2
+ },
+ {
+  "name": "agentmemory",
+  "repo": "rohitg00/agentmemory",
+  "sha": "28ffc538b81b265e2f649354ed9f88b0c12ae414",
+  "tier": "community",
+  "files": 1039,
+  "skipped": 85,
+  "tarball_mb": 34.6
+ },
+ {
+  "name": "agentplaybooks-memory",
+  "repo": "matebenyovszky/agentplaybooks",
+  "sha": "b0b9bcc242a5b68ca2f1a6e13a4b22ca035e6264",
+  "tier": "community",
+  "files": 726,
+  "skipped": 122,
+  "tarball_mb": 3.5
+ },
+ {
+  "name": "aletheia",
+  "repo": "ousiaresearch/aletheia",
+  "sha": "4d250b4babb33d7217c70c8853237da5b3b9b93e",
+  "tier": "community",
+  "files": 7,
+  "skipped": 0,
+  "tarball_mb": 0.0
+ },
+ {
+  "name": "assumption-ledger",
+  "repo": "itzebe/hermes-assumption-ledger",
+  "sha": "6cbd463922bf7202fb56f1a52a81486259dab9a0",
+  "tier": "community",
+  "files": 40,
+  "skipped": 0,
+  "tarball_mb": 0.1
+ },
+ {
+  "name": "backfill",
+  "repo": "wth-amna/hermes-backfill",
+  "sha": "b99250c2e8fe400549291abaee2ff4f093562474",
+  "tier": "community",
+  "files": 14,
+  "skipped": 0,
+  "tarball_mb": 0.0
+ },
+ {
+  "name": "betterdb",
+  "repo": "BetterDB-inc/monitor",
+  "sha": "cf54fb5f97afef8b3387ffe91be6272d5da23ea2",
+  "tier": "community",
+  "files": 2348,
+  "skipped": 32,
+  "tarball_mb": 9.1
+ },
+ {
+  "name": "bilinc",
+  "repo": "ReARCLabs/bilinc-hermes-plugin",
+  "sha": "1ad81b4aaef8632ba5d6438384f3f063f46a0ebd",
+  "tier": "community",
+  "files": 10,
+  "skipped": 3,
+  "tarball_mb": 0.5
+ },
+ {
+  "name": "birkin-mnemosyne",
+  "repo": "ashmoonori-afk/birkin-mnemosyne",
+  "sha": "63a34526973fc9ad0e5a030a474c67a5fca873e7",
+  "tier": "community",
+  "files": 270,
+  "skipped": 2,
+  "tarball_mb": 3.3
+ },
+ {
+  "name": "brainvault",
+  "repo": "xBuildyTeam/wave-os-hermes",
+  "sha": "3bb8a91fc1d1bfd909d59700a91adf3d3bf99aab",
+  "tier": "community",
+  "files": 48,
+  "skipped": 8,
+  "tarball_mb": 1.1
+ },
+ {
+  "name": "breadcrumbs",
+  "repo": "breadcrumbs-agency/breadcrumbs-hermes",
+  "sha": "1399f9cbb3f71218fe5acad20a06b287a023eef3",
+  "tier": "community",
+  "files": 119,
+  "skipped": 1,
+  "tarball_mb": 0.6
+ },
+ {
+  "name": "brethof-brain",
+  "repo": "BrethofAI/brethof-brain-client",
+  "sha": "dea65da574b4069db932409e422816fa30990522",
+  "tier": "community",
+  "files": 145,
+  "skipped": 1,
+  "tarball_mb": 0.8
+ },
+ {
+  "name": "carnet",
+  "repo": "404BugX/carnet",
+  "sha": "137c33a830cd24b9bc54e3555eff3ec3b607179e",
+  "tier": "community",
+  "files": 22,
+  "skipped": 4,
+  "tarball_mb": 1.2
+ },
+ {
+  "name": "cashew",
+  "repo": "magnus919/hermes-cashew",
+  "sha": "d89e59e63315f7c356c868a4ce7db64cb3c1aa1b",
+  "tier": "community",
+  "files": 119,
+  "skipped": 1,
+  "tarball_mb": 0.5
+ },
+ {
+  "name": "chronicle",
+  "repo": "indigokarasu/chronicle-agent-context-and-memory",
+  "sha": "92e4351a852117a11542210d06e8e5bfb61c3f1a",
+  "tier": "community",
+  "files": 234,
+  "skipped": 4,
+  "tarball_mb": 2.4
+ },
+ {
+  "name": "cmi",
+  "repo": "jeremiebergel/context-manager-intelligence",
+  "sha": "2f576931c05ae9bf778b5f3ca1158064af17e9b8",
+  "tier": "community",
+  "files": 162,
+  "skipped": 11,
+  "tarball_mb": 2.9
+ },
+ {
+  "name": "cognee",
+  "repo": "topoteretes/cognee-integrations",
+  "sha": "b132740960181e712f15c76ee80519cbd15fdb5d",
+  "tier": "community",
+  "files": 1245,
+  "skipped": 32,
+  "tarball_mb": 6.7
+ },
+ {
+  "name": "cognition",
+  "repo": "aska-digital/cognition-memory",
+  "sha": "a31ae960034ef3f0f860a33dc5ab8637549343aa",
+  "tier": "community",
+  "files": 20,
+  "skipped": 0,
+  "tarball_mb": 0.0
+ },
+ {
+  "name": "comemo",
+  "repo": "andausman/comemo",
+  "sha": "d37ca45c4b94ccc62110278b3a54cbbf10039256",
+  "tier": "community",
+  "files": 23,
+  "skipped": 0,
+  "tarball_mb": 0.0
+ },
+ {
+  "name": "commonplace",
+  "repo": "ChrisAaronNewton/hermes-commonplace",
+  "sha": "2d9f6c9378d51076dd9c0ac5a7a22ce9deda7c3f",
+  "tier": "community",
+  "files": 7,
+  "skipped": 0,
+  "tarball_mb": 0.0
+ },
+ {
+  "name": "compartment",
+  "repo": "MaxFreedomPollard/Compartment",
+  "sha": "b144fc34723911eace9f240ac1044b9280b74bf2",
+  "tier": "community",
+  "files": 145,
+  "skipped": 12,
+  "tarball_mb": 36.6
+ },
+ {
+  "name": "conxt",
+  "repo": "conxtdevelopmentteam/hermes-conxt",
+  "sha": "ec00e8a0e1f59df55828109f9ffe7136b65f544a",
+  "tier": "community",
+  "files": 6,
+  "skipped": 0,
+  "tarball_mb": 0.0
+ },
+ {
+  "name": "cortexlayer",
+  "repo": "Cortex-Layer/cortexlayer-hermes-plugin",
+  "sha": "099e4b3e77f73086bbf94fb32e052c864295e2ee",
+  "tier": "community",
+  "files": 13,
+  "skipped": 0,
+  "tarball_mb": 0.0
+ },
+ {
+  "name": "cortive",
+  "repo": "KadenDevAi/hermes-cortive",
+  "sha": "3eb2f4935994c6b7ea0d7067428d3051f9388fc6",
+  "tier": "community",
+  "files": 11,
+  "skipped": 3,
+  "tarball_mb": 0.7
+ },
+ {
+  "name": "ctx_checkpoint",
+  "repo": "GottZ/ctx",
+  "sha": "9f98ff65a51831ca72739c095b134f543e59bc32",
+  "tier": "community",
+  "files": 2086,
+  "skipped": 111,
+  "tarball_mb": 12.4
+ },
+ {
+  "name": "deja-memory",
+  "repo": "vshulcz/deja-vu",
+  "sha": "910d490f6b1909fa7a469c3adf95c0ec5d5187c5",
+  "tier": "community",
+  "files": 4196,
+  "skipped": 33,
+  "tarball_mb": 10.6
+ },
+ {
+  "name": "dexio",
+  "repo": "dexio-wiki/hermes-plugin",
+  "sha": "d05715098148e0335ceaf87a58caaa22d19ff3ff",
+  "tier": "community",
+  "files": 13,
+  "skipped": 3,
+  "tarball_mb": 1.0
+ },
+ {
+  "name": "dreamer",
+  "repo": "Cosmonautic1/hermes-dreamer",
+  "sha": "694a015422915ae9ac88f24bd385c0fd2ad0cd5f",
+  "tier": "community",
+  "files": 9,
+  "skipped": 0,
+  "tarball_mb": 0.0
+ },
+ {
+  "name": "dreaming",
+  "repo": "hsyvy/dreaming-memory",
+  "sha": "72387f60c47ea741e32cae265aa1d24c02bd1c48",
+  "tier": "community",
+  "files": 24,
+  "skipped": 3,
+  "tarball_mb": 11.5
+ },
+ {
+  "name": "engagements",
+  "repo": "latentoperator/hermes-engagements-plugin",
+  "sha": "a74ae82b6e4a5b416ef93705dbd696e4bc138a62",
+  "tier": "community",
+  "files": 365,
+  "skipped": 4,
+  "tarball_mb": 1.0
+ },
+ {
+  "name": "entropicmem",
+  "repo": "Ufonik88/EntropicMem",
+  "sha": "12ca8ae06ca4b9da0271a49d7cf7ce40d019befd",
+  "tier": "community",
+  "files": 427,
+  "skipped": 19,
+  "tarball_mb": 3.2
+ },
+ {
+  "name": "excel_line",
+  "repo": "kalice-vi/hermes-excel-line",
+  "sha": "a48cc5a9d1763e7bbc21b28fb12ed1289870150c",
+  "tier": "community",
+  "files": 35,
+  "skipped": 0,
+  "tarball_mb": 0.1
+ },
+ {
+  "name": "factkit",
+  "repo": "MohamedElsiddig/hermes-plugin-factkit",
+  "sha": "ffe3e255755e5b2b92bd5a06dfb89a0d549544d9",
+  "tier": "community",
+  "files": 18,
+  "skipped": 0,
+  "tarball_mb": 0.1
+ },
+ {
+  "name": "fractal-memory-engine",
+  "repo": "pCwOrM/hermes-fractal-memory",
+  "sha": "40fc72cc82da6d33df0c10d0262cb18f2b6d3d4f",
+  "tier": "community",
+  "files": 18,
+  "skipped": 0,
+  "tarball_mb": 0.0
+ },
+ {
+  "name": "gbrain-plugin",
+  "repo": "kerrz2020/hermes-gbrain",
+  "sha": "51f5b558e00aa3ea412801d423f436fdd43385ec",
+  "tier": "community",
+  "files": 23,
+  "skipped": 0,
+  "tarball_mb": 0.0
+ },
+ {
+  "name": "gbrain-pointer",
+  "repo": "praggybuilds/hermes-gbrain-pointer",
+  "sha": "56212b086ed8dc134011440fc05cfc867586b9a4",
+  "tier": "community",
+  "files": 6,
+  "skipped": 0,
+  "tarball_mb": 0.0
+ },
+ {
+  "name": "gbrain-retrieval-reflex",
+  "repo": "aean0x/hermes-gbrain-retrieval-reflex",
+  "sha": "78516ca629588612ebfc0a7ca86944fbb63d7dd8",
+  "tier": "community",
+  "files": 8,
+  "skipped": 0,
+  "tarball_mb": 0.0
+ },
+ {
+  "name": "goneby",
+  "repo": "rahlquist/goneby",
+  "sha": "a4e326e5ba87c56de64e7f44d837f538b703180f",
+  "tier": "community",
+  "files": 50,
+  "skipped": 7,
+  "tarball_mb": 1.4
+ },
+ {
+  "name": "grounded-recall",
+  "repo": "joaquinbyagentx/hermes-grounded-recall",
+  "sha": "a826e73ee587c2b88b33657d71cb5c50a7abbc89",
+  "tier": "community",
+  "files": 45,
+  "skipped": 0,
+  "tarball_mb": 0.1
+ },
+ {
+  "name": "harnmem",
+  "repo": "ys118/harnmem",
+  "sha": "20c644ef4276284494519ed96305bb371ff05dc3",
+  "tier": "community",
+  "files": 339,
+  "skipped": 491,
+  "tarball_mb": 2.0
+ },
+ {
+  "name": "hermes-dreaming",
+  "repo": "itpartypattaya/hermes-dreaming",
+  "sha": "21878d3ec8752283dd7ee69a803c63bb989c1740",
+  "tier": "community",
+  "files": 79,
+  "skipped": 9,
+  "tarball_mb": 1.8
+ },
+ {
+  "name": "hermes-eye-memory",
+  "repo": "isthatananya/hermes-eye-memory",
+  "sha": "c26df0567195da0a6c8fe497d35e58bae1902b8e",
+  "tier": "community",
+  "files": 33,
+  "skipped": 0,
+  "tarball_mb": 0.0
+ },
+ {
+  "name": "hermes-lcm-x",
+  "repo": "electricsheephq/lcm-x",
+  "sha": "9a2c9f2861ffac2047e9231626a23a28c72d5066",
+  "tier": "community",
+  "files": 123,
+  "skipped": 0,
+  "tarball_mb": 1.1
+ },
+ {
+  "name": "hermes-pubky",
+  "repo": "MCarlomagno/hermes-pubky",
+  "sha": "3603b82893864af4e8b7a7bc5980864d37dd6ee4",
+  "tier": "community",
+  "files": 67,
+  "skipped": 2,
+  "tarball_mb": 0.2
+ },
+ {
+  "name": "hermes-snapcompact",
+  "repo": "vimona3ds/hermes-snapcompact",
+  "sha": "8a274ca4a501e5661f1e2762150c4c3f99e374ce",
+  "tier": "community",
+  "files": 9,
+  "skipped": 0,
+  "tarball_mb": 0.0
+ },
+ {
+  "name": "hermes-visual-memory",
+  "repo": "majorminorlabs/hermes-voice",
+  "sha": "86598e5c663cb132db2821094291372f1a72de9f",
+  "tier": "community",
+  "files": 121,
+  "skipped": 52,
+  "tarball_mb": 1.2
+ },
+ {
+  "name": "hicortex",
+  "repo": "gamaze-labs/hicortex-hermes-plugin",
+  "sha": "3321a063bffb087dfcedc239a6f7aaf1ac0b8ef6",
+  "tier": "community",
+  "files": 6,
+  "skipped": 0,
+  "tarball_mb": 0.0
+ },
+ {
+  "name": "hindsight",
+  "repo": "vectorize-io/hindsight",
+  "sha": "f14cc1eb5624b0374cb4d82768eb2e0b9c21ae24",
+  "tier": "community",
+  "files": 4537,
+  "skipped": 665,
+  "tarball_mb": 212.6
+ },
+ {
+  "name": "holographic",
+  "repo": "itpartypattaya/hermes-plugin-holographic",
+  "sha": "4a794f86f3f9704b15752d702e425753047c5f9d",
+  "tier": "community",
+  "files": 246,
+  "skipped": 9,
+  "tarball_mb": 4.3
+ },
+ {
+  "name": "honcho",
+  "repo": "plastic-labs/honcho",
+  "sha": "894b88321872e01702a1aa638ddfdde6ad60f173",
+  "tier": "community",
+  "files": 1193,
+  "skipped": 58,
+  "tarball_mb": 10.7
+ },
+ {
+  "name": "hwiki",
+  "repo": "ottosulin/hwiki",
+  "sha": "d1961956eaafbd64fef71cb7135d475efcc8f954",
+  "tier": "community",
+  "files": 23,
+  "skipped": 0,
+  "tarball_mb": 0.1
+ },
+ {
+  "name": "hyatlas",
+  "repo": "tuancookiez-hub/HyAtlas-Memory",
+  "sha": "0428086c382456d9afaf55ba166c107f6f30759d",
+  "tier": "community",
+  "files": 180,
+  "skipped": 21,
+  "tarball_mb": 10.7
+ },
+ {
+  "name": "hydradb",
+  "repo": "hydra-db/hydradb-hermes-plugin",
+  "sha": "056d684f7e7f71b1086d975a9b78c52674a960e5",
+  "tier": "community",
+  "files": 10,
+  "skipped": 1,
+  "tarball_mb": 0.0
+ },
+ {
+  "name": "icarus",
+  "repo": "esaradev/icarus-plugin",
+  "sha": "e46cba30fb95a0b54b7c4d6c26169a424283d72b",
+  "tier": "community",
+  "files": 17,
+  "skipped": 0,
+  "tarball_mb": 0.0
+ },
+ {
+  "name": "ikigai",
+  "repo": "Pierrem57/hermes-ikigai",
+  "sha": "59f405f8b98c2f0ecb4a29fe90322c76ea47ce95",
+  "tier": "community",
+  "files": 12,
+  "skipped": 0,
+  "tarball_mb": 0.0
+ },
+ {
+  "name": "inspeximus",
+  "repo": "DanceNitra/inspeximus",
+  "sha": "2a4141cf89e0bbe5bcca9d2e167df41477ef5463",
+  "tier": "community",
+  "files": 1880,
+  "skipped": 396,
+  "tarball_mb": 11.8
+ },
+ {
+  "name": "intelligent_memory",
+  "repo": "hoysama/hermes-intelligent-memory",
+  "sha": "2d15ce5ba5878ddd7e18ca8cb1f0c62311965da0",
+  "tier": "community",
+  "files": 32,
+  "skipped": 1,
+  "tarball_mb": 0.1
+ },
+ {
+  "name": "jev-memory-selector",
+  "repo": "Pinutss/jev-memory-selector",
+  "sha": "87bd9be2a67d380024be194e6d80a1a053024361",
+  "tier": "community",
+  "files": 45,
+  "skipped": 2,
+  "tarball_mb": 0.0
+ },
+ {
+  "name": "lancedb-suite",
+  "repo": "3L0935/hermes-lancedb-memory-suite",
+  "sha": "e04513db8de5a0bd76941f26a27a9cc99aab9150",
+  "tier": "community",
+  "files": 93,
+  "skipped": 27,
+  "tarball_mb": 2.6
+ },
+ {
+  "name": "lancedb",
+  "repo": "lancedb/hermes-agent-memory",
+  "sha": "6691591e62e10438ee32ff671afad337208fdd43",
+  "tier": "community",
+  "files": 34,
+  "skipped": 1,
+  "tarball_mb": 0.1
+ },
+ {
+  "name": "lethe",
+  "repo": "itsflownium/hermes-lethe",
+  "sha": "8b93e2dce9402648c7e238c1d8c83dc649f2f204",
+  "tier": "community",
+  "files": 18,
+  "skipped": 7,
+  "tarball_mb": 18.8
+ },
+ {
+  "name": "limbic",
+  "repo": "dyiapanis/limbic",
+  "sha": "ce33cf5f01ea49a03ec593a31beaf8ee403b5dde",
+  "tier": "community",
+  "files": 70,
+  "skipped": 11,
+  "tarball_mb": 15.5
+ },
+ {
+  "name": "liv",
+  "repo": "demos-ra/liv",
+  "sha": "f5980262d5db4b27ff03ca72274afe5fe62f2b99",
+  "tier": "community",
+  "files": 35,
+  "skipped": 0,
+  "tarball_mb": 0.0
+ },
+ {
+  "name": "loreconvo",
+  "repo": "labyrinth-analytics/loreconvo",
+  "sha": "a04b581aa4db37287f8efff012f8e100f94191bf",
+  "tier": "community",
+  "files": 88,
+  "skipped": 2,
+  "tarball_mb": 0.5
+ },
+ {
+  "name": "lumberroom",
+  "repo": "lumberroom/lumberroom-hermes",
+  "sha": "87c697f31e0015c64900c2cc40f88beb3ead4a11",
+  "tier": "community",
+  "files": 44,
+  "skipped": 0,
+  "tarball_mb": 0.1
+ },
+ {
+  "name": "luminary",
+  "repo": "alertxsto/luminary-memory",
+  "sha": "414649f8a9bdb577ec5d0fb5c3ae26557d966f47",
+  "tier": "community",
+  "files": 262,
+  "skipped": 51,
+  "tarball_mb": 1.2
+ },
+ {
+  "name": "mdvault",
+  "repo": "kailashrajh/hermes-mdvault",
+  "sha": "46de6b47ab0772a7a6566f362304c41e1768fa6b",
+  "tier": "community",
+  "files": 23,
+  "skipped": 0,
+  "tarball_mb": 0.0
+ },
+ {
+  "name": "mem-diffs",
+  "repo": "daji-dev/mem-diffs",
+  "sha": "e6b424c1ca1b0249fd06a4c002a5971da7f76198",
+  "tier": "community",
+  "files": 9,
+  "skipped": 0,
+  "tarball_mb": 0.0
+ },
+ {
+  "name": "mem-os",
+  "repo": "Markgatcha/memos",
+  "sha": "af8fa31e01078e4d5e38210b61acdf90f6d70581",
+  "tier": "community",
+  "files": 265,
+  "skipped": 54,
+  "tarball_mb": 12.7
+ },
+ {
+  "name": "mem0",
+  "repo": "mem0ai/mem0",
+  "sha": "43849c6e9d4d773b83a8144b6373aedc67241a5d",
+  "tier": "community",
+  "files": 1664,
+  "skipped": 158,
+  "tarball_mb": 20.0
+ },
+ {
+  "name": "memanto",
+  "repo": "moorcheh-ai/memanto",
+  "sha": "21554fe8ac40685a45f222022b08e58459760b7d",
+  "tier": "community",
+  "files": 921,
+  "skipped": 41,
+  "tarball_mb": 12.1
+ },
+ {
+  "name": "memex8",
+  "repo": "Ex8-ca/memex8",
+  "sha": "d4037ac0992f1be84cf5d888809dc48da9f1c3dd",
+  "tier": "community",
+  "files": 126,
+  "skipped": 2,
+  "tarball_mb": 0.4
+ },
+ {
+  "name": "memobase",
+  "repo": "fred0m/hermes-memobase-provider",
+  "sha": "4e8e447966acefaea372395e2db96ca0d0127f18",
+  "tier": "community",
+  "files": 7,
+  "skipped": 0,
+  "tarball_mb": 0.0
+ },
+ {
+  "name": "memoria",
+  "repo": "matrixorigin/memoria",
+  "sha": "3a5c5065b2820d56dd3d8ac8bb259a9424b1476e",
+  "tier": "community",
+  "files": 341,
+  "skipped": 86,
+  "tarball_mb": 3.1
+ },
+ {
+  "name": "memory-ferry",
+  "repo": "gnanam1990/hermes-memory-ferry",
+  "sha": "28438fc3fb540ad5e0e255c8a26cca9100445a77",
+  "tier": "community",
+  "files": 20,
+  "skipped": 0,
+  "tarball_mb": 0.0
+ },
+ {
+  "name": "memory-zvec",
+  "repo": "kuntao2011/kkk-hermes-memory-zvec",
+  "sha": "ef1f460353185735f0139c3e315a44255f32e667",
+  "tier": "community",
+  "files": 6,
+  "skipped": 0,
+  "tarball_mb": 0.0
+ },
+ {
+  "name": "memorybank",
+  "repo": "nicholaslaldigital/hermes-memory-bank",
+  "sha": "e7e68d2cdad1db153542cb616c2ac3ea0675ab50",
+  "tier": "community",
+  "files": 51,
+  "skipped": 1,
+  "tarball_mb": 0.5
+ },
+ {
+  "name": "memtomem-memory",
+  "repo": "memtomem/memtomem",
+  "sha": "465e1abdf5285b2ebdce15e7c8fc6dd9d1a55601",
+  "tier": "community",
+  "files": 1778,
+  "skipped": 54,
+  "tarball_mb": 10.8
+ },
+ {
+  "name": "metronix",
+  "repo": "mtrnix/hermes-memory-metronix",
+  "sha": "55634c149378f6241a9147a47e67133f6c8a02e6",
+  "tier": "community",
+  "files": 34,
+  "skipped": 1,
+  "tarball_mb": 0.1
+ },
+ {
+  "name": "mindgraph",
+  "repo": "shuruheel/mindgraph",
+  "sha": "2abbfd03b73c6e369ab645bcb747cc6804555507",
+  "tier": "community",
+  "files": 56,
+  "skipped": 0,
+  "tarball_mb": 0.2
+ },
+ {
+  "name": "mnemos",
+  "repo": "Riley-Coyote/mnemos-mcp",
+  "sha": "8ca8e76ce4da54d28e4b74d247b26db2fdea1238",
+  "tier": "community",
+  "files": 333,
+  "skipped": 35,
+  "tarball_mb": 9.4
+ },
+ {
+  "name": "mnemostack",
+  "repo": "udjin-labs/hermes-mnemostack",
+  "sha": "08bdc8c4bc78501eaa4297978082ff380bff4658",
+  "tier": "community",
+  "files": 24,
+  "skipped": 0,
+  "tarball_mb": 0.1
+ },
+ {
+  "name": "mnemosyne",
+  "repo": "mnemosyne-oss/mnemosyne",
+  "sha": "7106311a95683cbb908b1f4f0f9f4df034aad50b",
+  "tier": "community",
+  "files": 636,
+  "skipped": 4,
+  "tarball_mb": 4.6
+ },
+ {
+  "name": "mnemoverse",
+  "repo": "mnemoverse/claude-plugin",
+  "sha": "0b462d39fd8f94885f4675b3b300ad9f0cb61dc9",
+  "tier": "community",
+  "files": 58,
+  "skipped": 4,
+  "tarball_mb": 0.3
+ },
+ {
+  "name": "nachos",
+  "repo": "Nacho-Labs-LLC/hermes-plugin-nachos",
+  "sha": "2ad0b272d4fbd2c000713e927a656851dc8787e2",
+  "tier": "community",
+  "files": 48,
+  "skipped": 1,
+  "tarball_mb": 0.1
+ },
+ {
+  "name": "neural-mesh",
+  "repo": "D0xedDevi0/hermes-neural-mesh",
+  "sha": "26abb610f3cbdd4215fbb898d4a2478317dfc5e5",
+  "tier": "community",
+  "files": 64,
+  "skipped": 5,
+  "tarball_mb": 1.6
+ },
+ {
+  "name": "nexus",
+  "repo": "Neboy72/nexus-memory",
+  "sha": "625d1adc6c8e237f37b40a3808ed33f64f9dbdf0",
+  "tier": "community",
+  "files": 386,
+  "skipped": 96,
+  "tarball_mb": 17.2
+ },
+ {
+  "name": "nyx-wiki-recall",
+  "repo": "blacksmithFF/NyxWikiRecall",
+  "sha": "7d8d26378d9da57e0eaae8016baa6fc03f9c6f01",
+  "tier": "community",
+  "files": 59,
+  "skipped": 1,
+  "tarball_mb": 0.3
+ },
+ {
+  "name": "nyx",
+  "repo": "sixgodgit/nyx",
+  "sha": "101a64d308281f75ba200e28c1c73c4d6e1887ce",
+  "tier": "community",
+  "files": 284,
+  "skipped": 0,
+  "tarball_mb": 0.9
+ },
+ {
+  "name": "oneiros",
+  "repo": "noblebrown-69/hermes-oneiros",
+  "sha": "c9bd78835f6388f04b23a9171c331e6270ef2b73",
+  "tier": "community",
+  "files": 92,
+  "skipped": 3,
+  "tarball_mb": 0.8
+ },
+ {
+  "name": "openloft-memory",
+  "repo": "blok-hamster/hermes-plugin-openloft-memory",
+  "sha": "8edd526d822f6514dc2f8f4a97d960d0fe7d9e55",
+  "tier": "community",
+  "files": 26,
+  "skipped": 0,
+  "tarball_mb": 0.0
+ },
+ {
+  "name": "openltm",
+  "repo": "RohiRIK/OpenLtm",
+  "sha": "8ee2a8e4f9de60fcf16b37e0ea9c02c4d389ba35",
+  "tier": "community",
+  "files": 607,
+  "skipped": 37,
+  "tarball_mb": 3.0
+ },
+ {
+  "name": "openviking",
+  "repo": "volcengine/OpenViking",
+  "sha": "e855796c83f9eb575d9b0f3082926660730f6a63",
+  "tier": "community",
+  "files": 4775,
+  "skipped": 504,
+  "tarball_mb": 65.4
+ },
+ {
+  "name": "optchat",
+  "repo": "aska-digital/optchat-memory",
+  "sha": "7b0f3abd65b95996366d0495787c95af981ea587",
+  "tier": "community",
+  "files": 15,
+  "skipped": 0,
+  "tarball_mb": 0.0
+ },
+ {
+  "name": "optmem-hermes",
+  "repo": "rarf/optmem-hermes-plugin",
+  "sha": "2868af6620bf07958f833ca354fbeecf2a56b265",
+  "tier": "community",
+  "files": 44,
+  "skipped": 1,
+  "tarball_mb": 0.3
+ },
+ {
+  "name": "pastdotdev",
+  "repo": "pastdotdev/hermes-plugin",
+  "sha": "22f7abdd1e73bebda6f876cd1f07fe383c25ada4",
+  "tier": "community",
+  "files": 9,
+  "skipped": 0,
+  "tarball_mb": 0.0
+ },
+ {
+  "name": "penny",
+  "repo": "HelperLabs/penny-hermes",
+  "sha": "0887dae11062165a78be9fb6c7b85c810a3353b5",
+  "tier": "community",
+  "files": 12,
+  "skipped": 0,
+  "tarball_mb": 0.0
+ },
+ {
+  "name": "plur1bus",
+  "repo": "Cyb3rb1ade/openclaw-plur1bus-memory",
+  "sha": "e131cae6463c35037bdd7e8cb45fb2a55b67f262",
+  "tier": "community",
+  "files": 2163,
+  "skipped": 19,
+  "tarball_mb": 5.6
+ },
+ {
+  "name": "polign-recall",
+  "repo": "Polign/polign",
+  "sha": "b906ee92cdd31881bbb51a81f234ee07b6bda5bd",
+  "tier": "community",
+  "files": 259,
+  "skipped": 2,
+  "tarball_mb": 1.9
+ },
+ {
+  "name": "post-cortex",
+  "repo": "julymetodiev/hermes-plugin-post-cortex",
+  "sha": "46ab2b97452ca9bd4fe3e7b4027e9f9715e895a5",
+  "tier": "community",
+  "files": 12,
+  "skipped": 0,
+  "tarball_mb": 0.0
+ },
+ {
+  "name": "qdrant-memory",
+  "repo": "cnkang/hermes-plugin-qdrant-memory",
+  "sha": "b8c1d8babe125470d9278404454728d4426f1dc3",
+  "tier": "community",
+  "files": 355,
+  "skipped": 2,
+  "tarball_mb": 1.7
+ },
+ {
+  "name": "qdrant",
+  "repo": "kuehnberger/hermes-qdrant-memory",
+  "sha": "c16cf4473ed3051686b9283f1cd2e8941d9d140f",
+  "tier": "community",
+  "files": 71,
+  "skipped": 2,
+  "tarball_mb": 1.1
+ },
+ {
+  "name": "recalllayer",
+  "repo": "er-s-an/recalllayer",
+  "sha": "e89cc87ef7b2051f2b4dc6cb449b09df4cac36ce",
+  "tier": "community",
+  "files": 21,
+  "skipped": 0,
+  "tarball_mb": 0.0
+ },
+ {
+  "name": "reliquary",
+  "repo": "Lokee86/reliquary-hermes",
+  "sha": "0de70d170a575582aeb71ba3daff371fc0fdd42c",
+  "tier": "community",
+  "files": 253,
+  "skipped": 674,
+  "tarball_mb": 6.4
+ },
+ {
+  "name": "reme",
+  "repo": "agentscope-ai/ReMe",
+  "sha": "5231f3970c550bb0bc5d1bc7fbc85534274ca530",
+  "tier": "community",
+  "files": 676,
+  "skipped": 68,
+  "tarball_mb": 21.3
+ },
+ {
+  "name": "renor",
+  "repo": "renorai/hermes-renor",
+  "sha": "91320b6f936205b8566e6d6444a420d9bed553d0",
+  "tier": "community",
+  "files": 12,
+  "skipped": 0,
+  "tarball_mb": 0.0
+ },
+ {
+  "name": "samskara",
+  "repo": "SebaWag/hermes-samskara",
+  "sha": "d807e875da3176301db9955e0352c9c8adb6cb01",
+  "tier": "community",
+  "files": 37,
+  "skipped": 6,
+  "tarball_mb": 2.1
+ },
+ {
+  "name": "scope-recall",
+  "repo": "https://github.com/410979729/scope-recall-hermes",
+  "error": "gh: Not Found (HTTP 404)\n"
+ },
+ {
+  "name": "screenpipe",
+  "repo": "vdimarco/hermes-screenpipe",
+  "sha": "1df1a3852462ddcdacdc250330e6f1a4013a607e",
+  "tier": "community",
+  "files": 22,
+  "skipped": 0,
+  "tarball_mb": 0.0
+ },
+ {
+  "name": "severian",
+  "repo": "Sahil-SS9/Severian",
+  "sha": "bdb14b04ffa014148d4665f239688ca0856561da",
+  "tier": "community",
+  "files": 444,
+  "skipped": 12,
+  "tarball_mb": 4.0
+ },
+ {
+  "name": "sgme",
+  "repo": "freehul/sgme",
+  "sha": "f12c9bfa2cc9f4a59420376cb91176abb882948b",
+  "tier": "community",
+  "files": 859,
+  "skipped": 27,
+  "tarball_mb": 13.2
+ },
+ {
+  "name": "smriti",
+  "repo": "vn-envy/Smriti",
+  "sha": "7735717795f53841c542fd40049a409627035774",
+  "tier": "community",
+  "files": 446,
+  "skipped": 75,
+  "tarball_mb": 127.8
+ },
+ {
+  "name": "stack",
+  "repo": "Karb-Interactive/hermes-plugin-stack-memory",
+  "sha": "a1763ec70080bf4094be7981223309264e7c0a18",
+  "tier": "community",
+  "files": 27,
+  "skipped": 1,
+  "tarball_mb": 0.4
+ },
+ {
+  "name": "statejar",
+  "repo": "KING-OF-FLAME/statejar-integrations",
+  "sha": "e4cb293be7dac91093d0376d190af3e0a6a70c1b",
+  "tier": "community",
+  "files": 70,
+  "skipped": 0,
+  "tarball_mb": 0.1
+ },
+ {
+  "name": "sugar",
+  "repo": "roboticforce/sugar",
+  "sha": "839491aae18b9e5dcebf2f7afb39f057b68f3a25",
+  "tier": "community",
+  "files": 378,
+  "skipped": 11,
+  "tarball_mb": 4.4
+ },
+ {
+  "name": "supermemory",
+  "repo": "supermemoryai/hermes-supermemory",
+  "sha": "91405dd00fdf2a0b3515b25c25557598f6793299",
+  "tier": "community",
+  "files": 7,
+  "skipped": 0,
+  "tarball_mb": 0.0
+ },
+ {
+  "name": "tam",
+  "repo": "vbcherepanov/hermes-tam-memory",
+  "sha": "9a6e51839fb0619c6e41804ac201272e857ea825",
+  "tier": "community",
+  "files": 24,
+  "skipped": 0,
+  "tarball_mb": 0.0
+ },
+ {
+  "name": "tmewai",
+  "repo": "hadialjurdi7-dot/hermes-tmewai",
+  "sha": "14a4c2b8c8942ca742badb481e1d7ee28bc6ba56",
+  "tier": "community",
+  "files": 24,
+  "skipped": 3,
+  "tarball_mb": 0.1
+ },
+ {
+  "name": "toolrecall-light",
+  "repo": "whiskybeer/toolrecall-light",
+  "sha": "96c2cfdb1952518c90d02d4e67a5ab470c2bb443",
+  "tier": "community",
+  "files": 21,
+  "skipped": 5,
+  "tarball_mb": 4.7
+ },
+ {
+  "name": "tusk",
+  "repo": "Automationbot24x7/hermes-tusk",
+  "sha": "3d1a6ef5f938c3d6b36187a388bcdaabe20b1829",
+  "tier": "community",
+  "files": 21,
+  "skipped": 4,
+  "tarball_mb": 0.6
+ },
+ {
+  "name": "unibaseio-membase",
+  "repo": "unibaseio/membase",
+  "sha": "8733b537da62192aa088e65ed127340969e0f680",
+  "tier": "community",
+  "files": 162,
+  "skipped": 11,
+  "tarball_mb": 8.9
+ },
+ {
+  "name": "upstash",
+  "repo": "upstash/agentkit",
+  "sha": "83af38572bc8c25f70d870a6b181b29c5bc351bf",
+  "tier": "community",
+  "files": 348,
+  "skipped": 1,
+  "tarball_mb": 0.6
+ },
+ {
+  "name": "wazoo",
+  "repo": "wazootech/wazoo-hermes",
+  "sha": "b78aec8834f7fd3bd21ed4e4cc7cd7ac1e672eaa",
+  "tier": "community",
+  "files": 11,
+  "skipped": 0,
+  "tarball_mb": 0.0
+ },
+ {
+  "name": "whos-listening",
+  "repo": "Web3B-eth/whos-listening",
+  "sha": "a498dd769c4196d0e911b713d4ad7363c8154ba1",
+  "tier": "community",
+  "files": 69,
+  "skipped": 0,
+  "tarball_mb": 0.2
+ },
+ {
+  "name": "xmemo",
+  "repo": "yonro/hermes-xmemo-plugin",
+  "sha": "499a383778647e897d30db3e92e8c8ad4397c799",
+  "tier": "community",
+  "files": 35,
+  "skipped": 3,
+  "tarball_mb": 0.1
+ },
+ {
+  "name": "yantrikdb",
+  "repo": "yantrikos/yantrikdb-hermes-plugin",
+  "sha": "f15adf60a094548daa6e58c43f3c7b79a83e1a89",
+  "tier": "community",
+  "files": 169,
+  "skipped": 19,
+  "tarball_mb": 13.5
+ },
+ {
+  "name": "zeromem",
+  "repo": "ptaranat/zeromem",
+  "sha": "1c3bd5e8135271930c611a3449c82a17d4f3bf33",
+  "tier": "community",
+  "files": 50,
+  "skipped": 6,
+  "tarball_mb": 5.8
+ },
+ {
+  "name": "sibyl",
+  "repo": "Sibyl-Labs/Sibyl-Memory",
+  "sha": "8d15cd20b37ce79f39953f684b88b17b2f8e753e",
+  "tier": "not-in-catalog",
+  "files": 336,
+  "skipped": 2,
+  "tarball_mb": 1.3
+ }
+]

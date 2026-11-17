@@ -1,0 +1,326 @@
+{
+ "what": "every Instabox box mayfly created for the memory episode, 16 Nov 2026, in creation order",
+ "boxes": 36,
+ "ok": 15,
+ "failed": 21,
+ "removed": 36,
+ "removed_how": "instabox rm by the runner, then instabox ls to confirm; 3 h TTL as a backstop",
+ "instabox_side_failures": 0,
+ "first_create_utc": "2026-11-16T04:01:41Z",
+ "last_rm_utc": "2026-11-16T09:15:49Z",
+ "seconds_note": "seconds is the runner's measured box lifetime, truncated to whole seconds; create_utc and rm_utc are also truncated, so their difference can be 1 s more",
+ "boxes_list": [
+  {
+   "run": 7,
+   "plugin": "control",
+   "create_utc": "2026-11-16T04:01:41Z",
+   "rm_utc": "2026-11-16T04:04:25Z",
+   "seconds": 164,
+   "result": "failed",
+   "why": "our runner ran a helper as the wrong user; fixed before the next round"
+  },
+  {
+   "run": 8,
+   "plugin": "control",
+   "create_utc": "2026-11-16T04:17:05Z",
+   "rm_utc": "2026-11-16T04:21:35Z",
+   "seconds": 270,
+   "result": "ok"
+  },
+  {
+   "run": 9,
+   "plugin": "mem0",
+   "create_utc": "2026-11-16T04:23:41Z",
+   "rm_utc": "2026-11-16T04:25:36Z",
+   "seconds": 115,
+   "result": "failed",
+   "why": "our install check looked in the wrong folder; fixed"
+  },
+  {
+   "run": 10,
+   "plugin": "mem0-review",
+   "create_utc": "2026-11-16T04:24:02Z",
+   "rm_utc": "2026-11-16T04:25:52Z",
+   "seconds": 110,
+   "result": "failed",
+   "why": "our install check looked in the wrong folder; fixed",
+   "note": "review variant"
+  },
+  {
+   "run": 11,
+   "plugin": "control-review",
+   "create_utc": "2026-11-16T04:24:20Z",
+   "rm_utc": "2026-11-16T04:29:39Z",
+   "seconds": 319,
+   "result": "ok",
+   "note": "review variant"
+  },
+  {
+   "run": 12,
+   "plugin": "agentmemory",
+   "create_utc": "2026-11-16T04:24:40Z",
+   "rm_utc": "2026-11-16T04:27:23Z",
+   "seconds": 163,
+   "result": "failed",
+   "why": "our install check looked in the wrong folder; fixed"
+  },
+  {
+   "run": 13,
+   "plugin": "openviking",
+   "create_utc": "2026-11-16T04:25:00Z",
+   "rm_utc": "2026-11-16T04:27:04Z",
+   "seconds": 123,
+   "result": "failed",
+   "why": "our install check looked in the wrong folder; fixed"
+  },
+  {
+   "run": 14,
+   "plugin": "hindsight",
+   "create_utc": "2026-11-16T04:25:20Z",
+   "rm_utc": "2026-11-16T04:27:23Z",
+   "seconds": 123,
+   "result": "failed",
+   "why": "our install check looked in the wrong folder; fixed"
+  },
+  {
+   "run": 15,
+   "plugin": "honcho",
+   "create_utc": "2026-11-16T04:25:40Z",
+   "rm_utc": "2026-11-16T04:27:49Z",
+   "seconds": 129,
+   "result": "failed",
+   "why": "our install check looked in the wrong folder; fixed"
+  },
+  {
+   "run": 16,
+   "plugin": "control",
+   "create_utc": "2026-11-16T04:32:22Z",
+   "rm_utc": "2026-11-16T04:37:47Z",
+   "seconds": 325,
+   "result": "ok"
+  },
+  {
+   "run": 17,
+   "plugin": "control",
+   "create_utc": "2026-11-16T04:32:46Z",
+   "rm_utc": "2026-11-16T04:39:44Z",
+   "seconds": 418,
+   "result": "ok"
+  },
+  {
+   "run": 18,
+   "plugin": "control",
+   "create_utc": "2026-11-16T04:33:12Z",
+   "rm_utc": "2026-11-16T04:42:27Z",
+   "seconds": 555,
+   "result": "ok"
+  },
+  {
+   "run": 20,
+   "plugin": "mem0",
+   "create_utc": "2026-11-16T04:40:13Z",
+   "rm_utc": "2026-11-16T04:44:34Z",
+   "seconds": 261,
+   "result": "failed",
+   "why": "our setup recipe cut a long setup step short; fixed"
+  },
+  {
+   "run": 21,
+   "plugin": "agentmemory",
+   "create_utc": "2026-11-16T04:40:33Z",
+   "rm_utc": "2026-11-16T04:43:29Z",
+   "seconds": 176,
+   "result": "failed",
+   "why": "our setup recipe cut a long setup step short; fixed"
+  },
+  {
+   "run": 22,
+   "plugin": "openviking",
+   "create_utc": "2026-11-16T04:40:53Z",
+   "rm_utc": "2026-11-16T04:43:53Z",
+   "seconds": 180,
+   "result": "failed",
+   "why": "our setup recipe cut a long setup step short; fixed"
+  },
+  {
+   "run": 23,
+   "plugin": "hindsight",
+   "create_utc": "2026-11-16T04:41:13Z",
+   "rm_utc": "2026-11-16T04:45:16Z",
+   "seconds": 243,
+   "result": "failed",
+   "why": "our setup recipe cut a long setup step short; fixed"
+  },
+  {
+   "run": 24,
+   "plugin": "honcho",
+   "create_utc": "2026-11-16T04:41:33Z",
+   "rm_utc": "2026-11-16T04:44:37Z",
+   "seconds": 184,
+   "result": "failed",
+   "why": "our setup recipe cut a long setup step short; fixed"
+  },
+  {
+   "run": 25,
+   "plugin": "mem0",
+   "create_utc": "2026-11-16T04:53:12Z",
+   "rm_utc": "2026-11-16T04:58:31Z",
+   "seconds": 319,
+   "result": "ok"
+  },
+  {
+   "run": 26,
+   "plugin": "agentmemory",
+   "create_utc": "2026-11-16T04:53:32Z",
+   "rm_utc": "2026-11-16T04:56:55Z",
+   "seconds": 203,
+   "result": "failed",
+   "why": "our setup recipe for this plugin needed a fix; fixed"
+  },
+  {
+   "run": 27,
+   "plugin": "openviking",
+   "create_utc": "2026-11-16T04:53:52Z",
+   "rm_utc": "2026-11-16T04:56:46Z",
+   "seconds": 174,
+   "result": "failed",
+   "why": "our setup recipe for this plugin needed a fix; fixed"
+  },
+  {
+   "run": 28,
+   "plugin": "hindsight",
+   "create_utc": "2026-11-16T04:54:12Z",
+   "rm_utc": "2026-11-16T04:59:49Z",
+   "seconds": 337,
+   "result": "ok"
+  },
+  {
+   "run": 29,
+   "plugin": "honcho",
+   "create_utc": "2026-11-16T04:54:32Z",
+   "rm_utc": "2026-11-16T05:04:42Z",
+   "seconds": 610,
+   "result": "ok"
+  },
+  {
+   "run": 30,
+   "plugin": "control",
+   "create_utc": "2026-11-16T07:48:23Z",
+   "rm_utc": "2026-11-16T07:52:17Z",
+   "seconds": 234,
+   "result": "failed",
+   "why": "our evidence check found a gap in the export; fixed"
+  },
+  {
+   "run": 31,
+   "plugin": "agentmemory",
+   "create_utc": "2026-11-16T08:03:27Z",
+   "rm_utc": "2026-11-16T08:08:34Z",
+   "seconds": 307,
+   "result": "failed",
+   "why": "our spec read the daemon's normal exit as a crash; fixed"
+  },
+  {
+   "run": 32,
+   "plugin": "openviking",
+   "create_utc": "2026-11-16T08:03:45Z",
+   "rm_utc": "2026-11-16T08:12:01Z",
+   "seconds": 495,
+   "result": "ok"
+  },
+  {
+   "run": 33,
+   "plugin": "floor",
+   "create_utc": "2026-11-16T08:04:05Z",
+   "rm_utc": "2026-11-16T08:14:19Z",
+   "seconds": 614,
+   "result": "failed",
+   "why": "our transcript export timed out; fixed"
+  },
+  {
+   "run": 34,
+   "plugin": "mem0-only",
+   "create_utc": "2026-11-16T08:04:25Z",
+   "rm_utc": "2026-11-16T08:11:48Z",
+   "seconds": 443,
+   "result": "ok"
+  },
+  {
+   "run": 35,
+   "plugin": "agentmemory",
+   "create_utc": "2026-11-16T08:17:11Z",
+   "rm_utc": "2026-11-16T08:24:21Z",
+   "seconds": 430,
+   "result": "ok"
+  },
+  {
+   "run": 36,
+   "plugin": "hindsight-only",
+   "create_utc": "2026-11-16T08:17:31Z",
+   "rm_utc": "2026-11-16T08:26:44Z",
+   "seconds": 553,
+   "result": "ok"
+  },
+  {
+   "run": 37,
+   "plugin": "honcho-only",
+   "create_utc": "2026-11-16T08:17:52Z",
+   "rm_utc": "2026-11-16T08:29:21Z",
+   "seconds": 689,
+   "result": "failed",
+   "why": "our model key hit its daily spending cap in session 3"
+  },
+  {
+   "run": 38,
+   "plugin": "agentmemory-only",
+   "create_utc": "2026-11-16T08:18:10Z",
+   "rm_utc": "2026-11-16T08:28:45Z",
+   "seconds": 635,
+   "result": "failed",
+   "why": "our model key hit its daily spending cap in session 4"
+  },
+  {
+   "run": 39,
+   "plugin": "openviking-only",
+   "create_utc": "2026-11-16T08:18:32Z",
+   "rm_utc": "2026-11-16T08:26:55Z",
+   "seconds": 503,
+   "result": "ok"
+  },
+  {
+   "run": 46,
+   "plugin": "honcho-only",
+   "create_utc": "2026-11-16T09:04:17Z",
+   "rm_utc": "2026-11-16T09:15:24Z",
+   "seconds": 666,
+   "result": "failed",
+   "why": "our runner machine broke before session 2 (npx cache clash during a CLI update)"
+  },
+  {
+   "run": 47,
+   "plugin": "agentmemory-only",
+   "create_utc": "2026-11-16T09:04:38Z",
+   "rm_utc": "2026-11-16T09:15:49Z",
+   "seconds": 671,
+   "result": "ok"
+  },
+  {
+   "run": 48,
+   "plugin": "floor",
+   "create_utc": "2026-11-16T09:04:59Z",
+   "rm_utc": "2026-11-16T09:13:16Z",
+   "seconds": 497,
+   "result": "ok",
+   "note": "finished, but void as a no-memory baseline: the agent switched built-in memory back on itself"
+  },
+  {
+   "run": 49,
+   "plugin": "honcho",
+   "create_utc": "2026-11-16T09:05:18Z",
+   "rm_utc": "2026-11-16T09:14:55Z",
+   "seconds": 577,
+   "result": "failed",
+   "why": "all five sessions done; our runner machine lost its npm connection on the last cleanup step"
+  }
+ ]
+}

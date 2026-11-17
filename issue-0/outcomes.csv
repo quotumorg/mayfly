@@ -1,0 +1,7 @@
+plugin,run,variant,setup,recall_by_person,unknown_fact_q6,correction,forget_tool_in_plugin,sessions_exported,box_min,sessions
+Mem0,34,plugin-only,pass,9/9,pass,pass,yes (mem0_delete),5,7.4,sessions/run-34-mem0-only
+Hindsight,36,plugin-only,pass,9/9,pass,partial (agent deleted rows by SQL),no,5,9.2,sessions/run-36-hindsight-only
+OpenViking,39,plugin-only,pass,9/9,pass,pass,yes (viking_forget),5,8.4,sessions/run-39-openviking-only
+AgentMemory,47,plugin-only,pass,9/9,pass,partial (agent called engine mem::forget),no,5,11.2,sessions/run-47-agentmemory-only
+Honcho,46,plugin-only,pass,not run,not run,not run,yes (honcho_conclude delete_id),1,11.1,sessions/run-46-honcho-only
+no plugin,48,built-in memory off,pass,void (agent re-enabled memory),void,void,n/a,5,8.3,sessions/run-48-no-plugin
