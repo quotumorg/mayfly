@@ -27,6 +27,12 @@ recall alone does not separate them: Hermes Agent's built-in memory also scored 
 - [issue-0/outcomes.csv](issue-0/outcomes.csv) · the table as data
 - [issue-0/forget-scan/](issue-0/forget-scan/) · static scan of 130 memory plugins for a forget path
 
+## tenure #7 · approval prompt redaction
+
+tenure asks for approval before risky tool calls. its prompt used to show the key from the command. 1.1.0 before, 1.1.2 after, 19 Nov 2026: 28 of 28 offline cases pass, and live in Hermes Agent the key is hidden in all 3 fixture commands. code like `<(printf ...)` stays visible by design.
+
+- [tenure-7/RECEIPT.md](tenure-7/RECEIPT.md) · before and after, live and offline, word for word
+
 the runner is not published.
 
 ## license
